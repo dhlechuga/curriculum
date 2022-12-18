@@ -1,2 +1,2 @@
 # curriculum
-Practica para el diseño de un curriculum
+Práctica para el diseño de un curriculum
